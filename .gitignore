@@ -1,2 +1,2 @@
 # Ignore le répertoire d'environnement virtuel
-venv/ 
+env_projet/ 
